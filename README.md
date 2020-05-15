@@ -1,5 +1,5 @@
-# wkhtmltopdf-support-JCK-fonts
-By default package wkhtmltopdf not support JCK (Asian fonts). This document to help you can add the Asian fonts for wkhtmltopdf.
+# wkhtmltopdf-support-CJK-fonts
+By default package wkhtmltopdf not support CJK (Asian fonts). This document to help you can add the Asian fonts for wkhtmltopdf.
 ## System requirements:
 - EC2 2018.03 release
 ## Install wkhtmltopdf
